@@ -1,7 +1,7 @@
 ![MasterHead](https://www.conceptseating.com/wp-content/uploads/2021/01/Market-Programming-Banner.jpg)
 <h1 align="center">Hi 👋, I'm Janusha Weerasinghe</h1>
 <h3 align="center">A passionate developer from SriLanaka</h3>
-<img align ="right" alt="Coding" width="400" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif">
+<img align ="right" alt="Coding" width="300" hight="350"src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif">
 
 - 🌱 I’m currently learning **ASP.NET and React**
 
