@@ -293,9 +293,9 @@ Upper Second Class Honours (68%)
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Janusha-Weerasinghe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Janusha-Weerasinghe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janusha-Weerasinghe&layout=compact&theme=tokyonight&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Janusha-Weerasinghe&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -308,13 +308,12 @@ Upper Second Class Honours (68%)
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Janusha-Weerasinghe&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
----
+<!-- <p align="center">
+  <# 🏆 GitHub Trophiesimg src="https://github-profile-trophy.vercel.app/?username=Janusha-Weerasinghe&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p> -->
+
 <!-- ===================================================== -->
 <!--                  LEARNING ROADMAP                     -->
 <!-- ===================================================== -->
