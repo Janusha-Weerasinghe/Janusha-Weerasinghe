@@ -290,13 +290,14 @@ Upper Second Class Honours (68%)
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
+
+<!-- <p align="center">
+# 📊 GitHub Statistics
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Janusha-Weerasinghe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Janusha-Weerasinghe&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 
 ---
 
